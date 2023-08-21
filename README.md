@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krodonnell7
 - 👀 I’m interested in analytics with a specific focus on basketball and football. I am pursuing a career in sports, business, or risk analysis.
-- 🌱 I’m currently improving my modeling and machine learning skills in R and improving my dashboard creation in Tableau
+- 🌱 I’m currently studying advanced analytics at NC State University where I am improving my modeling and machine learning skills in R and Python, SQL querying skills, and statistical knowledge. 
 - 📫 You can reach me by email at krodonnell7@gmail.com
 
 <!---
