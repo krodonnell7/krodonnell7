@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krodonnell7
-- 👀 I’m interested in analytics with a specific focus on basketball, soccer, and football. I am pursuing a career in sports, business, or risk analysis.
-- 🌱 I’m currently studying advanced analytics at NC State University where I am improving my modeling and machine learning skills in R and Python, SQL querying skills, and statistical knowledge. 
+- 👀 I’m interested in analytics with a specific focus on soccer, basketball, and football.
+- 🌱 I’m currently a data scientist at DC United, with a specific focus on recruitment and match analysis.
 - 📫 You can reach me by email at krodonnell7@gmail.com
 
 <!---
